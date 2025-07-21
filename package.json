@@ -3,19 +3,19 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "sls offline start --reloadHandler"
+    "dev": "serverless offline start --reloadHandler"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maateusilva/jstack-lab-api.git"
+    "url": "git+https://github.com/thiagoxcosta/jstack-lab-api.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/maateusilva/jstack-lab-api/issues"
+    "url": "https://github.com/thiagoxcosta/jstack-lab-api/issues"
   },
-  "homepage": "https://github.com/maateusilva/jstack-lab-api#readme",
+  "homepage": "https://github.com/thiagoxcosta/jstack-lab-api#readme",
   "description": "",
   "devDependencies": {
     "@types/aws-lambda": "^8.10.152",
